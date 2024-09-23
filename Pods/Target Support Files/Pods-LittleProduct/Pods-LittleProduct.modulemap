@@ -1,0 +1,6 @@
+framework module Pods_LittleProduct {
+  umbrella header "Pods-LittleProduct-umbrella.h"
+
+  export *
+  module * { export * }
+}
